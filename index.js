@@ -36,7 +36,10 @@ describe('destructivelyUpdateObjectWithKeyAndValue(object, key, value)', functio
 
 object [key] = value;
 
-
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
+  
+  return 
+}
 
 
 
